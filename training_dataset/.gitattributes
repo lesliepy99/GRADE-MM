@@ -1,2 +1,1 @@
 *.zip filter=lfs diff=lfs merge=lfs -text
-source_images.zip filter=lfs diff=lfs merge=lfs -text
